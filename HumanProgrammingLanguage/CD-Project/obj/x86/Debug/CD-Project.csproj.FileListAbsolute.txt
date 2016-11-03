@@ -1,0 +1,10 @@
+c:\users\mohammed\documents\visual studio 2010\Projects\CD-Project\CD-Project\bin\Debug\CD-Project.exe
+c:\users\mohammed\documents\visual studio 2010\Projects\CD-Project\CD-Project\bin\Debug\CD-Project.pdb
+c:\users\mohammed\documents\visual studio 2010\Projects\CD-Project\CD-Project\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mohammed\documents\visual studio 2010\Projects\CD-Project\CD-Project\obj\x86\Debug\CD-Project.exe
+c:\users\mohammed\documents\visual studio 2010\Projects\CD-Project\CD-Project\obj\x86\Debug\CD-Project.pdb
+E:\YPU\Semester 2013_1\CD\Project\CD-Project\CD-Project\obj\x86\Debug\CD-Project.exe
+E:\YPU\Semester 2013_1\CD\Project\CD-Project\CD-Project\obj\x86\Debug\CD-Project.pdb
+E:\YPU\Semester 2013_1\CD\Project\CD-Project\CD-Project\bin\Debug\CD-Project.exe
+E:\YPU\Semester 2013_1\CD\Project\CD-Project\CD-Project\bin\Debug\CD-Project.pdb
+E:\YPU\Semester 2013_1\CD\Project\CD-Project\CD-Project\obj\x86\Debug\CD-Project.csprojResolveAssemblyReference.cache
